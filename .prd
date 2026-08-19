@@ -1,0 +1,61 @@
+# PRD: Portofolio Programmer
+
+**Status:** Perencanaan
+**Versi:** 1.0
+
+## 1. Ringkasan
+Website portofolio programmer, 5 fitur utama, 3 fase rilis. Semua fitur berstatus Direncanakan.
+
+## 2. Fase & Fitur
+
+### FASE 1
+
+**2.1 Beranda**
+- Hero Profil — foto/nama/tagline, ringkasan singkat programmer
+- Navigasi Utama — menu ke semua section (Beranda, Proyek, Tentang, Kontak)
+- Sorotan Karya — preview proyek unggulan (featured projects)
+
+**2.2 Animasi Halus**
+- Animasi Pembuka — animasi saat page load pertama
+- Animasi Scroll — reveal/parallax saat user scroll
+- Transisi Lembut — transisi antar section/halaman
+
+### FASE 2
+
+**2.3 Jelajah Proyek**
+- Daftar Proyek — grid/list semua proyek
+- Filter Teknologi — filter proyek by tech stack (React, Python, dll)
+- Detail Proyek — halaman/modal detail per proyek (deskripsi, tech, link demo/repo)
+
+**2.4 Tentang Saya**
+- Cerita Singkat — narasi latar belakang/perjalanan karir
+- Keahlian Teknis — daftar skill/tech stack
+- Pengalaman — riwayat kerja/pendidikan
+
+### FASE 3
+
+**2.5 Kontak**
+- Formulir Kontak — form kirim pesan (nama, email, pesan)
+- Tautan Sosial — link GitHub, LinkedIn, dll
+- Info Kontak — email, lokasi (opsional)
+
+## 3. Prioritas Rilis
+1. FASE 1 — landing experience: Beranda + Animasi Halus
+2. FASE 2 — konten inti: Jelajah Proyek + Tentang Saya
+3. FASE 3 — konversi: Kontak
+
+## 4. Out of Scope (belum ada di roadmap ini)
+- CMS/admin panel untuk kelola proyek
+- Blog
+- Analytics/tracking
+- Multi-bahasa
+
+## 5. Metrik Sukses (usulan)
+- Load time halaman Beranda < 2s
+- Semua fitur FASE 1-3 live sebelum target launch
+- Form kontak berhasil submit tanpa error
+
+## 6. Open Questions
+- Tech stack (framework, hosting) belum ditentukan
+- Target audiens (recruiter? klien freelance?) belum jelas
+- Deadline per fase belum ada
