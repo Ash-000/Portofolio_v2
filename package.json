@@ -10,6 +10,8 @@
   },
   "dependencies": {
     "@phosphor-icons/react": "^2.1.10",
+    "@types/animejs": "^3.1.13",
+    "animejs": "^4.5.0",
     "gsap": "^3.15.0",
     "motion": "^13.1.0",
     "next": "16.3.1",
